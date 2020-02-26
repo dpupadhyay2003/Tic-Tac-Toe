@@ -1,0 +1,116 @@
+body {
+    background-color: black;
+    color: bisque;
+    font-family: cursive;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.align-center {
+    margin-left: 32%;
+    margin-top: 5%;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+}
+
+.player-1-score {
+    float: left;
+    margin: 0% 0% 1% 0%;
+}
+
+.margin-left-32 {
+    margin-left: 32%;
+}
+
+.margin-left-35 {
+    margin-left: 35%;
+}
+
+.margin-left-8 {
+    margin-left: 8% !important;
+}
+
+.margin-left-6 {
+    margin-left: 6% !important;
+}
+
+.current-player-box {
+    border: 1px solid;
+    width: 140px;
+    height: 70px;
+}
+
+.tie-score {
+    float: left;
+    margin: 0% 0% 1% 0%;
+}
+
+.player-2-score {
+    float: left;
+    margin: 0% 0% 1% 8%;
+}
+
+.x-value {
+    font-size: 80px;
+}
+
+.o-value {
+    font-size: 100px;
+}
+
+.div-1 {
+    clear: left;
+    float: left;
+    border-top: none;
+    border-left: none;
+}
+
+.div-2 {
+    float: left;
+    border-top: none;
+}
+
+.div-3 {
+    float: left;
+    border-top: none;
+    border-right: none;
+}
+
+.div-4 {
+    clear: left;
+    float: left;
+    border-left: none;
+}
+
+.div-5 {
+    float: left;
+}
+
+.div-6 {
+    float: left;
+    border-right: none;
+}
+
+.div-7 {
+    clear: left;
+    float: left;
+    border-bottom: none;
+    border-left: none;
+}
+
+.div-8 {
+    float: left;
+    border-bottom: none;
+}
+
+.div-9 {
+    float: left;
+    border-bottom: none;
+    border-right: none;
+}
